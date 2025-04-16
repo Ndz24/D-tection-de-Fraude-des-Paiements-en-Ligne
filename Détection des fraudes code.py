@@ -19,7 +19,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 
 # Charger les données
 # Remplacez 'new_data.csv' par le chemin complet du fichier CSV si nécessaire
-data = pd.read_csv('new_data.csv')
+data = pd.read_csv('dataset.csv')
 
 # Visualiser les informations générales sur le dataset pour comprendre la structure
 print("Informations générales sur le dataset :")
